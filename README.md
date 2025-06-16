@@ -19,7 +19,7 @@ python ./memoryAnalyse.py ./evidence.mddramimage
 When done, the terminal will print "Anlysis complete" and the .txt file (with the same name as the memory image) will now be available in the working directory. 
 
 
-[![Download](https://custom-icon-badges.demolab.com/badge/Script:-memoryAnalyser.py-B58DAE?style=flat&logo=download&logoColor=white)](https://uc3bpr20.oddweb.io/artefacts/homey_pro_emmc/homey_pro_emmc_pre_experiment/HomeyProPre.E01)
+[![Download](https://custom-icon-badges.demolab.com/badge/Script:-memoryAnalyser.py-B58DAE?style=flat&logo=download&logoColor=white)](https://github.com/oeeve/memoryAnalyser/blob/main/memoryAnalyser.py)
 
 ![memoryANalyser.py](/media/ray-so-export.png)
 
